@@ -3,6 +3,7 @@ title: "Lasers & Optoelectronics Lecture 11: Examples of Beams and Cavities (Cor
 date: 2026-07-01 12:11:00 +0900
 categories:
   - laser
+math: true
 tags:
   - 레이저-공진기
   - 자유-스펙트럼-영역
