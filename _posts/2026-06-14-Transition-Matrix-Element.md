@@ -8,9 +8,4 @@ tags:
   - polarization
   - envelopfunction
 ---
-Transition Matrix Element 가 무엇인지,
-어디에 사용되고,
-어떻게 유도되고,
-관련된 개념 소개.
-
-수정 중
+Transition Matrix Element

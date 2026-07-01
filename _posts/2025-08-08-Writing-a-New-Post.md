@@ -2,7 +2,10 @@
 title: Writing a New Post
 date: 2025-08-08 16:01:01 +0900
 categories: [Blog]
-tags: [github,pages,chirpy]     # TAG names should always be lowercase
+tags:
+  - github
+  - pages
+  - chirpy     # TAG names should always be lowercase
 math: true
 mermaid: true
 ---
