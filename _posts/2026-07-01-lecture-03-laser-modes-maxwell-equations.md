@@ -7,6 +7,7 @@ tags:
   - laser-modes
   - Maxwell-equations
   - three-level-system
+math: true
 ---
 
 유튜브 강의 영상 자막의 한글 번역본입니다.

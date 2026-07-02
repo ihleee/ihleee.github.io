@@ -7,5 +7,6 @@ tags:
   - matrix
   - polarization
   - envelopfunction
+math: true
 ---
 Transition Matrix Element

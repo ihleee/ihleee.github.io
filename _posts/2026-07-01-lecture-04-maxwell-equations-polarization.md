@@ -7,6 +7,7 @@ tags:
   - maxwell-equations
   - polarization
   - electromagnetics
+math: true
 ---
 
 유튜브 강의 영상 자막의 한글 번역본입니다.

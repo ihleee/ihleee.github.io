@@ -5,7 +5,7 @@ categories: [Blog]
 tags:
   - github
   - pages
-  - chirpy     # TAG names should always be lowercase
+  - chirpy
 math: true
 mermaid: true
 ---

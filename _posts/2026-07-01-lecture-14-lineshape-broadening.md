@@ -7,6 +7,7 @@ tags:
   - lineshape
   - broadening
   - doppler
+math: true
 ---
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/WR3eJzK2_EY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
